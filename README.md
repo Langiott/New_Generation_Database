@@ -1,5 +1,6 @@
 # New_Generation_Database
-In questo corso magistrale si concentra nello studio e lo sviluppo di database moderni. Questa materia non tratta concetti di Base di Dati ma la sua evoluzione e gli strumenti che si sono creati negli ultimi anni.
+In questo corso magistrale si concentra nello studio e lo sviluppo di database moderni. Questa materia non tratta concetti di Base di Dati ma la sua evoluzione e gli strumenti che si sono creati negli ultimi anni. In questo repository non troverete script o altro , se volete sapere nei dettagli come sviluppare il progetto , vi invito a scrivermi un email. Mi farebbe molto piacere 
+
 ## PROGETTO: Modellazione di un Social Network che utilizza Database a Grafo mediante Neo4j "socialITTU"
 
 #### Obiettivo del Progetto
