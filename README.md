@@ -11,6 +11,15 @@ Il progetto ha lo scopo di sviluppare un social network chiamato **socialITTU** 
 #### Motivazione
 I social network sono sistemi altamente connessi, ideali per l'uso di database a grafo. Rispetto ai database relazionali tradizionali, **Neo4j** consente di rappresentare le relazioni in modo esplicito, facilitando query complesse come il "trovare amici di amici", raccomandazioni, o l'analisi di comunità.
 
+#### Strumenti Utilizzati
+
+> **Neo4j**: Database a grafo utilizzato per la gestione dei dati connessi.
+>
+> **Cypher**: Linguaggio di query dichiarativo utilizzato per interrogare i grafi.
+>
+> **Neo4j Desktop**: Interfaccia grafica per gestire e visualizzare i database.
+
+
 #### Vantaggi di Neo4j
 1. **Efficienza nelle relazioni**: Le relazioni sono entità di prima classe, memorizzate direttamente con i nodi, rendendo più veloce l'accesso rispetto a database tradizionali.
 2. **Navigazione rapida**: La struttura a grafo consente una rapida traversata dei nodi.
