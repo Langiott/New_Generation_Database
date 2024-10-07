@@ -12,6 +12,8 @@ Il progetto ha lo scopo di sviluppare un social network chiamato **socialITTU** 
 I social network sono sistemi altamente connessi, ideali per l'uso di database a grafo. Rispetto ai database relazionali tradizionali, **Neo4j** consente di rappresentare le relazioni in modo esplicito, facilitando query complesse come il "trovare amici di amici", raccomandazioni, o l'analisi di comunità.
 
 #### 🚀  Strumenti Utilizzati
+![Esempio di immagine](./3.png)
+
 - 🗃️ **Neo4j**: Database a grafo utilizzato per la gestione dei dati connessi.
 - 📝 **Cypher**: Linguaggio di query per interrogare i grafi.
 - 💻 **Neo4j Desktop**: Interfaccia grafica per gestire e visualizzare i database.
