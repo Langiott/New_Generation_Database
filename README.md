@@ -1,8 +1,7 @@
 # New_Generation_Database
 In questo corso magistrale si concentra nello studio e lo sviluppo di database moderni. Questa materia non tratta concetti di Base di Dati ma la sua evoluzione e gli strumenti che si sono creati negli ultimi anni 
-# PROGETTO: Modellazione di un Social Network che utilizza Database a Grafo mediante Neo4j 
+## PROGETTO: Modellazione di un Social Network che utilizza Database a Grafo mediante Neo4j 
 
-Per il markdown della prima parte del documento che hai condiviso, possiamo suddividere l'analisi e i punti chiave in una sintesi concisa, oltre a riportare gli script fondamentali utilizzati nel progetto.
 
 ### Modellazione di un Social Network con Neo4j - "socialITTU"
 
